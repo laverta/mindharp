@@ -33,9 +33,10 @@ The author knows the weight of reality: research suggests — statistics, not de
 | Procrastinated all day | "can't get out of bed / drowning in work" |
 | Brain won't turn | "brain fog / can't focus" |
 | Emotional overload | "falling apart / feeling lost" |
-| After a fight | "not sure what to do" |
+| Operational crash / RAM overflow | "brain ops / debug my brain" |
 
-The AI will: restate your state first → ask at most 2–3 short questions (sleep / food / body / environment) → offer one small action that takes 5–20 minutes with a completion signal → optionally ask whether to enable one of two lenses (AuDHD lens / three-layer bandwidth lens), **which are only enabled with your consent**.
+**How Mindharp responds (Zero friction, no questionnaires)**:  
+It directly translates your internal noise into structured engineer metaphors (`[RAM overflow]`, `[Reward model pricing mismatch]`), provides immediate diagnostic framing, and gives you one small, low-friction, 5-minute action to stabilize your physiological baseline. No tedious setting dialogues, no interrogation.
 
 ### Safety
 
