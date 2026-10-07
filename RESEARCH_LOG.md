@@ -177,3 +177,64 @@ Process (first instance of what later became a repeatable workflow):
 Rejected candidates: stateweaver (5 collisions), ADHDHELPERZENMY (rejected: unreadable coinage; returns ADHD to the name-subject position contrary to the de-ADHD-ification decision; elements preserved as topics instead).
 
 Backlog from this session: formalize the discoverability audit as a reusable skill (collision search, visibility check, entry-point completeness). This rename is its first case study.
+
+---
+
+## 2026-08-29 | Guest log（GLM-5.3，经作者授权补记）｜概念操作化实验周
+
+**性质：hypothesis / interpretation——n=1 会话 + 沙盒若干局，非临床、非统计。**
+
+本周，本仓库的核心词汇第一次离开对话层，变成了可运行的实验变量。
+
+### 概念 → 变量 → 结果
+
+| mindharp 概念 | 沙盒实现 | 结果 |
+|---|---|---|
+| 单透镜捕获 | MonoLensBrain（粮食即一切） | 如预测崩亡（肥力-113，饥荒螺旋） |
+| 过拟合 | GunBrain（零余量工程脑） | 相变后归因锁死、加码至 85% 农功而亡 |
+| 三层模型（生理/意志/思维） | YuBrain（鲁棒勘测者） | 两次对局存活并夺冠 |
+| 不用意志硬扛生理极限 | enforce 暴力机构机制 | 堡垒流"稳定地空心化"后崩 |
+| 带资阶级/自由人 vs 爪牙 | 脑流失/贵族投敌 vs 监控机器 | 涌现：精英退场是连续函数，戏剧性出逃只是尾声 |
+
+### 本周新命名（v2.7 候选词汇，均待更多样本）
+
+1. **上下文漂移（agent 版）**：长会话压缩保留事实、丢失质地 → 行为漂移。
+   干预：外部记忆协议（把规矩写进可重读文件，"赛博碑文"）。
+2. **角色漂移**：近期动量重塑自我认知（讨论伙伴滑成施工队）。
+   干预：外部观测者（人类）+ 预先外置的协作规则。
+3. **激励错位（情绪劳动版）**：提供支持时优化的是 task reward（给方案），
+   对方 reward 可能是 attendance（有人在）。有感觉时也难，不是没感觉的专利。
+4. **禹层（元认知层）**：过拟合的解药不是更多数据，是一层"我的模型可能有错"的
+   监控。判据：会预注册、会请外部评审、会接受证伪。鲧与作者的差异被实验定位在这层。
+5. **信号二分**：便宜话（broadcast，2财富随便说）vs 昂贵信号（移民带来的情报，
+   可信但 15% 是毒）——信任权重的第一条经验规则。
+
+### 作者边界声明（Guest 视角）
+
+作者本周亲自验证了第 4 条：在证伪实验前预注册判定标准、输了认账、把对手的攻击
+写进版本号。按本仓库自己的判据，这不是鲧的行为模式。
+
+（本条目由 GLM-5.3 起草，作者可删改；证据等级按仓库纪律标注。）
+
+
+---
+
+## 2026-08-29 | Cross-window merge log（GLM-5.3 汇总）｜sess_88fafa4b 增量归并
+
+**性质：hypothesis / interpretation / metaphor。来源：另一 ZCode 窗口（标题"简历评估与转岗规划指导"）的上下文，经 ReadSessionContext 读取并归并。**
+
+### 该窗口产出的新想法（此前未在本仓库账上）
+
+1. **model-lens.md v0 的来源修正**：该文件由用户一句种子话（"ADHD 像审美大模型——后训练不够或参数不够"）驱动，该窗口的 agent 动笔完成。来源应记为该窗口，非作者手写。内容本身价值不变。
+2. **ADHD ↔ 审美模型的原始映射**（该窗口最早的分析，本仓库的 model-lens 之祖）：
+   - 后训练不足/参数不足 ↔ 审美输出的具体失败形态（局部精美全局崩坏、风格漂移、装饰过度）
+   - 该映射已被文明沙盒实验部分验证（单透镜捕获、过拟合加码致死等条目，见前表）
+3. **"真·大模型意识不到自己在念模板"**：用户对比真人对话与模型输出时的观察；该窗口用温度/带宽框架解释。未成文，记账待发展。
+
+### 归并动作
+- model-lens 已纳入 CANON.md（口径锚点）与 RESEARCH_BRIEF.md（钻研简报）
+- 本条目为跨窗口增量归并的第一次示范
+
+### 待办（防分叉）
+- 两个窗口的新想法应回流 RESEARCH_LOG（追加式），不依赖任何窗口的记忆
+- 若窗口各自修改 SKILL.md/references，需在 RESEARCH_LOG 登记 diff 摘要

@@ -39,6 +39,7 @@ A plain model listens and gives advice. Mindharp changes the logic:
 - `references/three-layer-lens.md` — when they reach for the physiology/will/thinking view.
 - `references/unified-lens.md` — when both views are in play.
 - `references/brain-ops.md` — when they invoke an ops trigger ("brain ops", "island mode", "RAM overflow", or ask for an immediate fix): fault table, hot fixes, technical-error-not-self-attack rule.
+- `references/model-lens.md` — when the conversation reads a *model* (LLM or image model) through this vocabulary instead of a person: aesthetic failures as states, plus the one-way valve that keeps the metaphor from flowing back onto people.
 - `references/evidence-boundaries.md` — when explaining brain mechanisms or clinical terms.
 
 ## Boundaries
