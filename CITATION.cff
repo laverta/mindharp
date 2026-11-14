@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use or reference this project, please cite it using the metadata below."
+title: "Mindharp: Large-Model Cognitive Mechanics Running on a Human"
+type: software
+authors:
+  - name: "laverta"
+    alias: "Cody"
+    website: "https://github.com/laverta"
+repository-code: "https://github.com/laverta/mindharp"
+url: "https://github.com/laverta"
+abstract: "A non-clinical prompt skill and engineer-metaphor cognitive framework originally developed in August 2026 for ADHD/AuDHD self-parsing, which subsequently evolved into the T-1 (Third-One) metacognitive observer and R-1 (Rewire-One) restructuring system."
+license: MIT
+keywords:
+  - "laverta-federation"
+  - "mindharp"
+  - "t-1"
+  - "r-1"
+  - "adhd"
+  - "audhd"
+  - "metacognition"
+  - "prompt-engineering"
+references:
+  - type: software
+    title: "T-1 (Third-One): Neutral Third-Person Metacognitive Observer"
+    authors:
+      - name: "laverta"
+        alias: "Cody"
+        website: "https://github.com/laverta"
+    repository-code: "https://github.com/laverta/t-1"
+    url: "https://github.com/laverta/t-1"
+  - type: software
+    title: "R-1 (Rewire-One): ADHD/AuDHD Self-Understanding and Restructuring System"
+    authors:
+      - name: "laverta"
+        alias: "Cody"
+        website: "https://github.com/laverta"
+    repository-code: "https://github.com/laverta/r-1"
+    url: "https://github.com/laverta/r-1"
+  - type: software
+    title: "Federation-MOA: Lightweight Multi-Agent Sovereign Operating System & 3D World Tree Topology"
+    authors:
+      - name: "laverta"
+        alias: "Cody"
+        website: "https://github.com/laverta"
+    repository-code: "https://github.com/laverta/federation-moa"
+    url: "https://github.com/laverta/federation-moa"

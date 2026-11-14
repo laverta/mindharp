@@ -108,3 +108,25 @@ PRs welcome: improve the workflow, add language translations, refine the unified
 ## License
 
 MIT + non-clinical statement, see [LICENSE](LICENSE).
+
+---
+
+<!-- LAVERTA-FEDERATION-ECOSYSTEM-LINK -->
+## 🔗 Laverta Federation Ecosystem / 联邦生态关联
+
+**`mindharp`** (2026-08) is the cognitive-mechanics origin of the **[Laverta Federation Ecosystem](https://github.com/laverta)**. In September 2026, its concepts split and evolved into two symmetric systems:
+- **[`t-1`](https://github.com/laverta/t-1)** (`Third-One · 观测端·镜子`): Neutral third-person metacognitive observer & paradigm tagger, whose orthogonal invariant discrimination core also powers **[`federation-moa`](https://github.com/laverta/federation-moa)** (`dsh_advisor.py` & `skills/t-1/`).
+- **[`r-1`](https://github.com/laverta/r-1)** (`Rewire-One · 落地端·刻刀`): Human-facing ADHD/AuDHD self-understanding and behavioral restructuring toolkit.
+
+| Layer | Repository | Role & Cross-Repo Connection |
+|---|---|---|
+| **Profile Hub** | [laverta/laverta](https://github.com/laverta) | Master architecture map, genealogy & ecosystem index |
+| **Core OS & Orchestration** | [laverta/federation-moa](https://github.com/laverta/federation-moa) | 3-Stage DAG multi-agent OS & 3D World Tree (57.5% vs 45% BigCodeBench-Hard); integrates `dsh-core`, `t-1`, and federation protocols |
+| **Task Router & Governance** | [laverta/dsh-skill-registry](https://github.com/laverta/dsh-skill-registry) | DSH task router & skill registry; on-demand 1–3 skill mounting & privilege guard against context bloat |
+| **Inter-Agent Protocol** | [laverta/federation-communication-lite](https://github.com/laverta/federation-communication-lite) | Platform-neutral agent delivery layer (`Native messaging > Shared Markdown > Bridge`), companion to `federation-moa` |
+| **Metacognitive Observer** | [laverta/t-1](https://github.com/laverta/t-1) | Third-One (`观测端·镜子`): neutral paradigm tagging & orthogonal invariant discrimination embedded in `federation-moa`; evolved from `mindharp` |
+| **Cognitive Restructuring** | [laverta/r-1](https://github.com/laverta/r-1) | Rewire-One (`落地端·刻刀`): ADHD/AuDHD self-understanding & rewiring; symmetric counterpart to `t-1`, evolved from `mindharp` |
+| **Origin / Predecessor** | [laverta/mindharp](https://github.com/laverta/mindharp) | Origin cognitive-mechanics framework (2026-08) that evolved into `t-1` and `r-1` |
+| **Model Bridge Infra** | [laverta/zcode-gemini-bridge](https://github.com/laverta/zcode-gemini-bridge) | Local proxy fixing Gemini 3.x `thought_signature` 400 errors for ZCode & multi-agent harnesses |
+
+> **Canonical Ecosystem Hub**: [`https://github.com/laverta`](https://github.com/laverta) · See [`CITATION.cff`](CITATION.cff) for machine-readable cross-repository citations.
